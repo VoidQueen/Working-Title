@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "remnents_of_rwby:block/yourmom_slab"
+    },
+    "type=top": {
+      "model": "remnents_of_rwby:block/yourmom_slab_top"
+    },
+    "type=double": {
+      "model": "remnents_of_rwby:block/yourmom_slab_full"
+    }
+  }
+}

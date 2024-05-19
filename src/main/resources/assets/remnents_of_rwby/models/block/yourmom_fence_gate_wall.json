@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate_wall",
+  "textures": {
+    "texture": "remnents_of_rwby:block/yourmom_planks"
+  },
+  "render_type": "solid"
+}

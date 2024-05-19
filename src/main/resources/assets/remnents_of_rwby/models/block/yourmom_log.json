@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "remnents_of_rwby:block/yourmom_log_top",
+    "up": "remnents_of_rwby:block/yourmom_log_top",
+    "north": "remnents_of_rwby:block/yourmom_log_side",
+    "east": "remnents_of_rwby:block/yourmom_log_side",
+    "south": "remnents_of_rwby:block/yourmom_log_side",
+    "west": "remnents_of_rwby:block/yourmom_log_side",
+    "particle": "remnents_of_rwby:block/yourmom_log_top"
+  },
+  "render_type": "solid"
+}

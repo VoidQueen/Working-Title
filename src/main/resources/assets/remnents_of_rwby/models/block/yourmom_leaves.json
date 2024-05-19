@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "remnents_of_rwby:block/yourmom_leaves",
+    "particle": "remnents_of_rwby:block/yourmom_leaves"
+  }
+}

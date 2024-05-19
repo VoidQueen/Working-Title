@@ -17,6 +17,10 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
+import net.mcreator.remnentsofrwby.init.RemnentsOfRwbyModTabs;
+import net.mcreator.remnentsofrwby.init.RemnentsOfRwbyModItems;
+import net.mcreator.remnentsofrwby.init.RemnentsOfRwbyModBlocks;
+
 import java.util.function.Supplier;
 import java.util.function.Function;
 import java.util.function.BiConsumer;
@@ -36,6 +40,12 @@ public class RemnentsOfRwbyMod {
 		// End of user code block mod constructor
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
+
+		RemnentsOfRwbyModBlocks.REGISTRY.register(bus);
+
+		RemnentsOfRwbyModItems.REGISTRY.register(bus);
+
+		RemnentsOfRwbyModTabs.REGISTRY.register(bus);
 
 		// Start of user code block mod init
 		// End of user code block mod init

@@ -1,10 +1,332 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "YourmomWood",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/remnents_of_rwby/blockstates/yourmom_wood.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_wood.json",
+          "src/main/java/net/mcreator/remnentsofrwby/block/YourmomWoodBlock.java",
+          "src/main/resources/assets/remnents_of_rwby/models/item/yourmom_wood.json",
+          "src/main/resources/data/remnents_of_rwby/loot_tables/blocks/yourmom_wood.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomLog",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_log",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/remnentsofrwby/block/YourmomLogBlock.java",
+          "src/main/resources/assets/remnents_of_rwby/models/item/yourmom_log.json",
+          "src/main/resources/assets/remnents_of_rwby/blockstates/yourmom_log.json",
+          "src/main/resources/data/remnents_of_rwby/loot_tables/blocks/yourmom_log.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_log.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomPlanks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_planks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/remnents_of_rwby/loot_tables/blocks/yourmom_planks.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_planks.json",
+          "src/main/java/net/mcreator/remnentsofrwby/block/YourmomPlanksBlock.java",
+          "src/main/resources/assets/remnents_of_rwby/models/item/yourmom_planks.json",
+          "src/main/resources/assets/remnents_of_rwby/blockstates/yourmom_planks.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomLeaves",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_leaves",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/remnentsofrwby/block/YourmomLeavesBlock.java",
+          "src/main/resources/assets/remnents_of_rwby/blockstates/yourmom_leaves.json",
+          "src/main/resources/assets/remnents_of_rwby/models/item/yourmom_leaves.json",
+          "src/main/resources/data/remnents_of_rwby/loot_tables/blocks/yourmom_leaves.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_leaves.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/remnents_of_rwby/models/item/yourmom_stairs.json",
+          "src/main/resources/assets/remnents_of_rwby/blockstates/yourmom_stairs.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_stairs_outer.json",
+          "src/main/java/net/mcreator/remnentsofrwby/block/YourmomStairsBlock.java",
+          "src/main/resources/data/remnents_of_rwby/loot_tables/blocks/yourmom_stairs.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_stairs_inner.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_stairs.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/remnentsofrwby/block/YourmomSlabBlock.java",
+          "src/main/resources/data/remnents_of_rwby/loot_tables/blocks/yourmom_slab.json",
+          "src/main/resources/assets/remnents_of_rwby/models/item/yourmom_slab.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_slab.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_slab_top.json",
+          "src/main/resources/assets/remnents_of_rwby/blockstates/yourmom_slab.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_slab_full.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomFence",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/remnents_of_rwby/models/item/yourmom_fence.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_fence.json",
+          "src/main/java/net/mcreator/remnentsofrwby/block/YourmomFenceBlock.java",
+          "src/main/resources/assets/remnents_of_rwby/blockstates/yourmom_fence.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_fence_post.json",
+          "src/main/resources/data/remnents_of_rwby/loot_tables/blocks/yourmom_fence.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_fence_inventory.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomFenceGate",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/remnentsofrwby/block/YourmomFenceGateBlock.java",
+          "src/main/resources/data/remnents_of_rwby/loot_tables/blocks/yourmom_fence_gate.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_fence_gate_open.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_fence_gate_wall_open.json",
+          "src/main/resources/assets/remnents_of_rwby/blockstates/yourmom_fence_gate.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_fence_gate_wall.json",
+          "src/main/resources/assets/remnents_of_rwby/models/item/yourmom_fence_gate.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_fence_gate.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomPressurePlate",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/remnents_of_rwby/loot_tables/blocks/yourmom_pressure_plate.json",
+          "src/main/resources/assets/remnents_of_rwby/blockstates/yourmom_pressure_plate.json",
+          "src/main/resources/assets/remnents_of_rwby/models/item/yourmom_pressure_plate.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_pressure_plate.json",
+          "src/main/java/net/mcreator/remnentsofrwby/block/YourmomPressurePlateBlock.java",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_pressure_plate_down.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomButton",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/remnents_of_rwby/loot_tables/blocks/yourmom_button.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_button.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_button_pressed.json",
+          "src/main/java/net/mcreator/remnentsofrwby/block/YourmomButtonBlock.java",
+          "src/main/resources/assets/remnents_of_rwby/models/item/yourmom_button.json",
+          "src/main/resources/assets/remnents_of_rwby/blockstates/yourmom_button.json",
+          "src/main/resources/assets/remnents_of_rwby/models/block/yourmom_button_inventory.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomWoodRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/remnents_of_rwby/recipes/yourmom_wood_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomPlanksLogRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_planks_log_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/remnents_of_rwby/recipes/yourmom_planks_log_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomPlanksWoodRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_planks_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/remnents_of_rwby/recipes/yourmom_planks_wood_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomStairsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/remnents_of_rwby/recipes/yourmom_stairs_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomSlabRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/remnents_of_rwby/recipes/yourmom_slab_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomFenceRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/remnents_of_rwby/recipes/yourmom_fence_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomFenceGateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/remnents_of_rwby/recipes/yourmom_fence_gate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomPressurePlateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/remnents_of_rwby/recipes/yourmom_pressure_plate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomButtonRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/remnents_of_rwby/recipes/yourmom_button_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "YourmomStickRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yourmom_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/remnents_of_rwby/recipes/yourmom_stick_recipe.json"
+        ]
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
-  "tag_elements": {},
+  "tag_elements": {
+    "BLOCKS:minecraft:leaves": [
+      "~CUSTOM:YourmomLeaves"
+    ],
+    "BLOCKS:minecraft:mineable/axe": [
+      "~CUSTOM:YourmomPlanks",
+      "~CUSTOM:YourmomLog",
+      "~CUSTOM:YourmomWood"
+    ],
+    "BLOCKS:minecraft:slabs": [
+      "~CUSTOM:YourmomSlab"
+    ],
+    "BLOCKS:minecraft:fences": [
+      "~CUSTOM:YourmomFence"
+    ],
+    "BLOCKS:minecraft:stairs": [
+      "~CUSTOM:YourmomStairs"
+    ]
+  },
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.remnents_of_rwby.yourmom_stairs": "Yourmom Stairs",
+      "block.remnents_of_rwby.yourmom_log": "Yourmom Log",
+      "block.remnents_of_rwby.yourmom_wood": "Yourmom Wood",
+      "block.remnents_of_rwby.yourmom_pressure_plate": "Yourmom Pressure Plate",
+      "block.remnents_of_rwby.yourmom_button": "Yourmom Button",
+      "block.remnents_of_rwby.yourmom_leaves": "Yourmom Leaves",
+      "block.remnents_of_rwby.yourmom_planks": "Yourmom Planks",
+      "block.remnents_of_rwby.yourmom_fence": "Yourmom Fence",
+      "block.remnents_of_rwby.yourmom_fence_gate": "Yourmom Fence Gate",
+      "block.remnents_of_rwby.yourmom_slab": "Yourmom Slab"
+    }
   },
   "foldersRoot": {
     "name": "~",

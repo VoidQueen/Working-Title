@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "remnents_of_rwby:block/yourmom_pressure_plate"
+    },
+    "powered=true": {
+      "model": "remnents_of_rwby:block/yourmom_pressure_plate_down"
+    }
+  }
+}

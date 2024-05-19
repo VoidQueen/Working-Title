@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_fence_gate",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "remnents_of_rwby:yourmom_planks"
+    }
+  },
+  "result": {
+    "item": "remnents_of_rwby:yourmom_fence_gate",
+    "count": 1
+  }
+}
