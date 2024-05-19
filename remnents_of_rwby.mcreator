@@ -3,6 +3,7 @@
     {
       "name": "YourmomWood",
       "type": "block",
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_wood",
@@ -19,6 +20,7 @@
     {
       "name": "YourmomLog",
       "type": "block",
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_log",
@@ -35,6 +37,7 @@
     {
       "name": "YourmomPlanks",
       "type": "block",
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_planks",
@@ -51,6 +54,7 @@
     {
       "name": "YourmomLeaves",
       "type": "block",
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_leaves",
@@ -67,6 +71,7 @@
     {
       "name": "YourmomStairs",
       "type": "block",
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_stairs",
@@ -85,6 +90,7 @@
     {
       "name": "YourmomSlab",
       "type": "block",
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_slab",
@@ -103,6 +109,7 @@
     {
       "name": "YourmomFence",
       "type": "block",
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_fence",
@@ -121,6 +128,7 @@
     {
       "name": "YourmomFenceGate",
       "type": "block",
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_fence_gate",
@@ -140,6 +148,7 @@
     {
       "name": "YourmomPressurePlate",
       "type": "block",
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_pressure_plate",
@@ -157,6 +166,7 @@
     {
       "name": "YourmomButton",
       "type": "block",
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_button",
@@ -175,6 +185,7 @@
     {
       "name": "YourmomWoodRecipe",
       "type": "recipe",
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_wood_recipe",
@@ -187,6 +198,7 @@
     {
       "name": "YourmomPlanksLogRecipe",
       "type": "recipe",
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_planks_log_recipe",
@@ -199,6 +211,7 @@
     {
       "name": "YourmomPlanksWoodRecipe",
       "type": "recipe",
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_planks_wood_recipe",
@@ -211,6 +224,7 @@
     {
       "name": "YourmomStairsRecipe",
       "type": "recipe",
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_stairs_recipe",
@@ -223,6 +237,7 @@
     {
       "name": "YourmomSlabRecipe",
       "type": "recipe",
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_slab_recipe",
@@ -235,6 +250,7 @@
     {
       "name": "YourmomFenceRecipe",
       "type": "recipe",
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_fence_recipe",
@@ -247,6 +263,7 @@
     {
       "name": "YourmomFenceGateRecipe",
       "type": "recipe",
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_fence_gate_recipe",
@@ -259,6 +276,7 @@
     {
       "name": "YourmomPressurePlateRecipe",
       "type": "recipe",
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_pressure_plate_recipe",
@@ -271,6 +289,7 @@
     {
       "name": "YourmomButtonRecipe",
       "type": "recipe",
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_button_recipe",
@@ -283,6 +302,7 @@
     {
       "name": "YourmomStickRecipe",
       "type": "recipe",
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yourmom_stick_recipe",
